@@ -1,0 +1,1 @@
+This repo makes `Stub.java` returns an Object rather than a defined service. This adds another layer of abstraction allowing Client to call arbitrary defined service from the Server.

@@ -1,0 +1,1 @@
+This repo demonstrates the use of Proxy pattern, where `Stub.java` hides the Server connection detail from the Client, to make programmer focus on the business details.

@@ -1,0 +1,1 @@
+This repo demonstrates the raw use of Socket connection between Server and Client. No serializations or patterns are involved.

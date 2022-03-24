@@ -42,7 +42,5 @@ python Client.py
 # Without Framework
 codes without Apache Thrift are stored in the `no-framework-codes` directory. It contains solely Java code on both server and client side. It demonstrates in more details why we need a `Stub` class to hide the connection detail and the usage of dynamic proxy pattern. 
 
-... @TODO
-
 # Reference 
-... @TODO
+Codes in `no-framework-codes/` are thanked to https://www.bilibili.com/video/BV17Z4y1s7cG?p=2&share_source=copy_web

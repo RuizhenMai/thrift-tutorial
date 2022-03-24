@@ -1,0 +1,1 @@
+This repo adds Serialization by using `ObjectInputStream` and `ObjectOutputStream` on `Stub.java` and `Server.java`.
